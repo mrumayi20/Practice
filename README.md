@@ -4,4 +4,8 @@ Some Text
 
 ## SubHeader
 
-Some Text Again
+Some Text Agit gain
+
+## Local Development
+
+1. Open index.html in you browser.
