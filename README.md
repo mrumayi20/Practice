@@ -9,3 +9,4 @@ Some Text Agit gain
 ## Local Development
 
 1. Open index.html in you browser.
+2. Adding more details
